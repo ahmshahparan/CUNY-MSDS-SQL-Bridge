@@ -1,6 +1,6 @@
 -- Assignment: SQL Select and Aggregations
 -- Responsed by: A H M Shahparan
--- Date: 01/07/1988
+-- Date: 01/07/2018
 
 -- 1. Which destination in the flights database is the furthest distance away, based on information in the flights table. Show the SQL query(s) that support your conclusion.
 
